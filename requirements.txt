@@ -1,0 +1,15 @@
+Python 3.8+
+
+# Bibliotecas:
+
+pandas
+
+matplotlib
+
+seaborn
+
+openpyxl
+
+# Instale os requisitos via:
+
+pip install pandas matplotlib seaborn openpyxl
